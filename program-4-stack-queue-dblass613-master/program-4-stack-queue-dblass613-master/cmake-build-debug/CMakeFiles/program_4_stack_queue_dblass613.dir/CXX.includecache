@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Zay/Documents/GitHub/program-4-stack-queue-dblass613/main.cpp
+iostream
+-
+stack.h
+/Users/Zay/Documents/GitHub/program-4-stack-queue-dblass613/stack.h
+queue.h
+/Users/Zay/Documents/GitHub/program-4-stack-queue-dblass613/queue.h
+cstdlib
+-
+
+/Users/Zay/Documents/GitHub/program-4-stack-queue-dblass613/queue.cpp
+queue.h
+/Users/Zay/Documents/GitHub/program-4-stack-queue-dblass613/queue.h
+
+/Users/Zay/Documents/GitHub/program-4-stack-queue-dblass613/queue.h
+iostream
+-
+
+/Users/Zay/Documents/GitHub/program-4-stack-queue-dblass613/stack.cpp
+stack.h
+/Users/Zay/Documents/GitHub/program-4-stack-queue-dblass613/stack.h
+
+/Users/Zay/Documents/GitHub/program-4-stack-queue-dblass613/stack.h
+iostream
+-
+
